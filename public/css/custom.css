@@ -67,7 +67,7 @@ hr {
 }
 
 .hyd-intro {
-    color: #999;
+    color: #000;
     /*font-family: "Notera";*/
     font-size: 1.75em;
     margin-top: 1em;
@@ -121,7 +121,7 @@ hr {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fff;
-    background: rgba(255,255,255,0.8);
+    background: rgba(255,255,255,0.9);
 }
 
 .intro-text {
@@ -180,6 +180,10 @@ footer p {
         color: #fff;
     }
 
+    .hyd-intro {
+        color: #999;
+    }
+
     .brand>a {
         text-decoration: none;
         color: #fff;
@@ -226,7 +230,7 @@ footer p {
     }
 
     .nav>li>a {
-        padding: 30px;
+        padding: 28px;
     }
 
     .navbar-nav>li>a {
